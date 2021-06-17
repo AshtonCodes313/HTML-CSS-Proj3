@@ -1,0 +1,36 @@
+.main h1{
+    font-family: 'Fredoka One', cursive;
+    font-size: 2rem;
+}
+
+header{
+    background-color:gold;
+}
+
+footer{
+    background-color: aquamarine;
+    padding: 2%;
+}
+
+.navigation {
+    font-family: 'Cinzel', serif;
+    padding: 2%;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 2%;
+}
+
+h2{
+    font-family: 'Fredoka One', cursive;
+}
+
+p{
+    font-family: 'Cinzel', serif;
+
+}
+
+.main img{
+    border-radius: 50%;
+}
